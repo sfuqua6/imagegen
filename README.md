@@ -1,5 +1,3 @@
-Here's a GitHub-optimized README.md with proper formatting and platform-specific features:
-
 ```markdown
 # 🎨 Manga Generation Pipeline
 
